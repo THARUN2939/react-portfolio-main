@@ -1,0 +1,18 @@
+[
+  {
+    "role": "DEVSOC'23",
+    "organisation": "VIT",
+    "experiences": ["Created VITrade Web application", "Secured Top 10 teams", "Compteted against 200+ teams", "50 hour Hackathon"],
+    "imageSrc": "history/vit.png"
+  },
+  
+  {
+    "role": "ISA Core member",
+    "organisation": "VIT",
+    "experiences": [
+      "Front-end Developer",
+      "Organising Events, Hackathons and Workshops"
+    ],
+    "imageSrc": "history/isa.png"
+  }
+]

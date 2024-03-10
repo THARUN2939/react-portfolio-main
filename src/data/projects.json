@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ai chat-bot",
+    "imageSrc": "projects/project1.png",
+    "description": "This Ai Chat Bot App powered by RapidAPI.",
+    "skills": ["React", "ReactJs", "Api", "RapidApi"],
+    "demo": "https://aichatbot-tharun2939.vercel.app/",
+    "source": "https://github.com/THARUN2939/aichatbot"
+  },
+  {
+    "title": "PicGenius AI",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React + Vite", "Api"],
+    "demo": "https://text-to-image-main.vercel.app/",
+    "source": "https://github.com/THARUN2939/text-to-image-main"
+  },
+  {
+    "title": "Brainwave",
+    "imageSrc": "projects/project3.png",
+    "description": "Modern UI/UX website",
+    "skills": ["React.js", "TailwindCSS", "Vite"],
+    "demo": "https://brainwave-main.vercel.app/",
+    "source": "https://github.com/THARUN2939/brainwave-main"
+  }
+]
